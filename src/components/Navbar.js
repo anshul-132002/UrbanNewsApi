@@ -10,7 +10,7 @@ const Navbar = () => {
           Urban Monkey News
         </Link>
         <button
-          className="navbar-toggler  "
+          className="navbar-toggler  js-scroll-trigger"
           type="button"
           data-bs-toggle="collapse"
           data-bs-target="#navbarSupportedContent"
@@ -18,12 +18,12 @@ const Navbar = () => {
           aria-expanded="false"
           aria-label="Toggle navigation"
         >
-          <span className="navbar-toggler-icon " />
+          <span className="navbar-toggler-icon" />
         </button>
         
 
 
-        <div className="collapse navbar-collapse " id="navbarSupportedContent">
+        <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav me-auto mb-2 mb-lg-0">
             <li className="nav-item  js-scroll-trigger">
               <Link className="nav-link " aria-current="page" to="/">
