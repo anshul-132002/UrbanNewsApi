@@ -1,0 +1,8 @@
+{
+  "appId": "com.newsapp.app",
+  "appName": "newsapp",
+  "webDir": "build",
+  "server": {
+    "androidScheme": ""
+  }
+}

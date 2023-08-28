@@ -1,0 +1,48 @@
+{
+  "status": "ok",
+  "totalResults": 36,
+  "articles": [
+    {
+      "sourc e": { "id": "cnn", "name": "CNN" },
+      "author": "Steve Almasy",
+      "title": "Vegas Golden Knights win first Stanley Cup in young franchise’s history after defeating Florida Panthers - CNN",
+      "description": "The Vegas Golden Knights, in just their sixth NHL season, defeated the Florida Panthers 9-3 Tuesday night in Las Vegas to win the franchise’s first Stanley Cup in five games.",
+      "url": "https://www.cnn.com/2023/06/13/sport/nhl-vegas-golden-knights-florida-panthers-stanley-cup-spt-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230613231941-04-knights-stanley-cup-061323.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-06-14T04:20:00Z",
+      "content": "The Vegas Golden Knights, in just their sixth NHL season, defeated the Florida Panthers 9-3 Tuesday night in Las Vegas to win the franchises first Stanley Cup in five games.\r\nVegas captain Mark Stone… [+4317 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Guardian staff reporter",
+      "title": "Activision Blizzard: US judge blocks takeover by Microsoft until further hearings - The Guardian",
+      "description": "Federal Trade Commission secures delay of $69bn deal which it argues would be anti-competitive",
+      "url": "https://www.theguardian.com/technology/2023/jun/14/activision-blizzard-us-judge-blocks-takeover-by-microsoft-until-further-hearings",
+      "urlToImage": "https://i.guim.co.uk/img/media/797fa76b8ba607f433fe212e1c607c23b8e35bd4/0_174_4814_2889/master/4814.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1c99a8d8b374b08e434038f319117d14",
+      "publishedAt": "2023-06-14T02:54:00Z",
+      "content": "A US district judge has granted the Federal Trade Commissions request to temporarily block Microsofts $69bn buyout of video game maker Activision Blizzard and set a hearing next week.\r\nMicrosofts bid… [+1767 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "Mark Schlabach",
+      "title": "PGA Tour commissioner Jay Monahan recovering from medical issue - ESPN - ESPN",
+      "description": "PGA Tour commissioner Jay Monahan is recovering from an undisclosed medical situation, according to a statement issued Tuesday night.",
+      "url": "https://www.espn.com/golf/story/_/id/37849868/pga-tour-commissioner-jay-monahan-recovering-medical-situation",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0310%2Fr677704_1296x729_16%2D9.jpg",
+      "publishedAt": "2023-06-14T02:54:00Z",
+      "content": "LOS ANGELES -- PGA Tour commissioner Jay Monahan is recovering from an undisclosed medical situation, according to a joint statement from Monahan and the PGA Tour Policy Board on Tuesday night.\r\nThe … [+1360 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Ben Rohrbach",
+      "title": "NBA Finals: Never forget Jamal Murray, the NBA's only non-All-Star superstar - Yahoo Sports",
+      "description": "Nikola Jokic deservedly received all 11 votes for the 2023 NBA Finals MVP award in leading the Denver Nuggets to the franchise's first championship, but let ...",
+      "url": "https://sports.yahoo.com/nba-finals-never-forget-jamal-murray-the-nbas-only-non-all-star-superstar-025404153.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/7gDWoog1ydT4XRNKzJuNrg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/513dae10-09c8-11ee-abfd-c9e723fb9734",
+      "publishedAt": "2023-06-14T02:54:00Z",
+      "content": "Nikola Jokic deservedly received all 11 votes for the 2023 NBA Finals MVP award in leading the Denver Nuggets to the franchise's first championship, but let us never forget the contributions of his p… [+8091 chars]"
+    }
+  ]
+}
+  
+

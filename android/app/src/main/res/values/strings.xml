@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">newsapp</string>
+    <string name="title_activity_main">newsapp</string>
+    <string name="package_name">com.newsapp.app</string>
+    <string name="custom_url_scheme">com.newsapp.app</string>
+</resources>
