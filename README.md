@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+<div align="center">
+	<h1>NewsMonkey  (Screenshots below!)</h1>
+</div>
+## 🎓Overview
+<div>
+	<b >NewsMonkey </b>  is a web application that provides users with the latest news from around the world. The app utilizes the NewsAPI to gather news articles from a variety of reputable sources and presents them to users in an easy-to-use interface. One of the key features of NewsMonkey is its advanced filtering options, which allow users to sort news articles by category, such as sports, entertainment, politics, and more. The app also incorporates infinite scrolling functionality, which enables users to seamlessly browse through a virtually endless stream of news articles without interruption.
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<hr>
 
-## Available Scripts
+<h1>IN MOBIILE VIEW </h1>
 
-In the project directory, you can run:
+![Screenshot 2023-08-18 201240](https://github.com/anshul-132002/UrbanNewsApi/assets/128448038/3bbc2af1-1014-4887-8724-eef596c54854)
 
-### `npm start`
+<hr>
+<h1>IN WEBSITE VIEW </h1>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![Screenshot 2023-08-18 201907](https://github.com/anshul-132002/UrbanNewsApi/assets/128448038/ba953f5a-4620-4fc1-ad41-e7969e83e07c)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Screenshot 2023-08-18 201928](https://github.com/anshul-132002/UrbanNewsApi/assets/128448038/83ab6f1b-5608-44c7-9618-5b6543eeb98a)
 
-### `npm test`
+<hr>
+<h3>Key Features React Class Based Components: <h3>
+  <br>
+  The entire project is developed using React class-based components, providing a solid foundation for managing state and behavior.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+React Router: Implemented React Router to facilitate smooth navigation and enable users to access news from different categories effortlessly.
 
-### `npm run build`
+componentDidMount: Utilized componentDidMount lifecycle method to fetch data and ensure that news articles are loaded efficiently when the component mounts.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Infinite Scroll: Incorporated Infinite Scroll functionality to enhance the user experience by loading additional news articles as the user scrolls down the page.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+PropTypes and Default Props: Used PropTypes and Default Props to ensure the correct data types and default values for components, thus enhancing code reliability.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Async Await: Employed async await to fetch data from the News API, making the process of fetching and handling data more streamlined and readable.
 
-### `npm run eject`
+Improvement / Future Scope NewsMonkey has great potential for further enhancements. Some future scope includes:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Light/Dark Mode: Implement a light/dark mode toggle to provide users with a more personalized browsing experience, allowing them to choose their preferred theme.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+News from Different Countries: Enhance the application by adding a feature to view news from different countries, providing users with a broader perspective on global events.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Contributing Contributions to NewsMonkey are welcomed! If you have any ideas for new features, find any issues, or want to improve the existing functionality, please feel free to create a pull request. For significant changes, it’s recommended to open an issue first to discuss the proposed changes.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Note: NewsMonkey aims to provide the latest news with a user-friendly experience. Contributions and improvements are encouraged to make it even better!
