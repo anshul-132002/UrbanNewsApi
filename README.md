@@ -23,18 +23,26 @@
 <h3>Key Features React Class Based Components: <h3>
   <br>
   The entire project is developed using React class-based components, providing a solid foundation for managing state and behavior.
+  <br>  <br>
 
 React Router: Implemented React Router to facilitate smooth navigation and enable users to access news from different categories effortlessly.
+  <br>  <br>
+
 
 componentDidMount: Utilized componentDidMount lifecycle method to fetch data and ensure that news articles are loaded efficiently when the component mounts.
+  <br>
 
 Infinite Scroll: Incorporated Infinite Scroll functionality to enhance the user experience by loading additional news articles as the user scrolls down the page.
+  <br>
 
 PropTypes and Default Props: Used PropTypes and Default Props to ensure the correct data types and default values for components, thus enhancing code reliability.
+  <br>
 
 Async Await: Employed async await to fetch data from the News API, making the process of fetching and handling data more streamlined and readable.
+  <br>
 
 Improvement / Future Scope NewsMonkey has great potential for further enhancements. Some future scope includes:
+  <br>
 
 Light/Dark Mode: Implement a light/dark mode toggle to provide users with a more personalized browsing experience, allowing them to choose their preferred theme.
 
