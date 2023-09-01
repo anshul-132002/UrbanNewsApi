@@ -43,3 +43,4 @@ News from Different Countries: Enhance the application by adding a feature to vi
 Contributing Contributions to NewsMonkey are welcomed! If you have any ideas for new features, find any issues, or want to improve the existing functionality, please feel free to create a pull request. For significant changes, it’s recommended to open an issue first to discuss the proposed changes.
 
 Note: NewsMonkey aims to provide the latest news with a user-friendly experience. Contributions and improvements are encouraged to make it even better!
+

@@ -1,8 +1,8 @@
 {
   "name": "newsapi",
-  "homepage" : "https://anshul-132002.github.io/UrbanNewsApi",
+  "homepage": "https://anshul-132002.github.io/UrbanNewsApi",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@capacitor/android": "^5.2.3",
     "@capacitor/cli": "^5.2.3",
@@ -20,8 +20,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-        "predeploy" : "npm run build", 
-    "deploy": "gh-pages -d build", 
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test",
